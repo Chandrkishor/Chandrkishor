@@ -47,6 +47,7 @@ Hi there, I'm Chandrkishor, an experienced software developer with a proven trac
 ![Babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=babel)
 ![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Chandrkishor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chandrkishor&theme=dark&hide_border=false)<br/>
@@ -62,3 +63,7 @@ Hi there, I'm Chandrkishor, an experienced software developer with a proven trac
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chandrkishor&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<p align="center"> 
+Visitors count<br>
+<img src="https://profile-counter.glitch.me/chandrkishor/count.svg" />
+</p>
