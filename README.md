@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Chandrkishor Tiwari working in Mindrops Pvt. ltd. as a React Developer(MERN stack developer)
-- 👀 I’m interested in - IoT type projects
-- 🌱 I’m currently learning - React and their popular libraries
-- 💞️ I’m looking to collaborate on- Javascript
-<!---
-Chandrkishor/Chandrkishor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻 Tech Stack:
+!JavaScript !HTML5 !CSS3 !TypeScript !Netlify !Heroku !Firebase !Cloudflare !AWS !Vercel !Bootstrap !Express.js !jQuery !MUI !NPM !Next JS !NodeJS !React !React Router !Redux !TailwindCSS !Yarn !MongoDB !Redis !MySQL 	!Figma !Babel !ESLint !Swagger
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Chandrkishor&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chandrkishor&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrkishor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Chandrkishor&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Chandrkishor&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
