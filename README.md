@@ -10,12 +10,6 @@ Dynamic software developer with 3+ years of IT experience, specializing in front
 - 🎓 Pursuing Masters in Computer Applications (MCA) from IGNOU Delhi (Jan 2024 - Jan 2026)
 - ⚡ Fun fact: I was originally an Electrical Engineer!
 
-### 🤝 Connect with me:
-<!-- [<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/chandrkishor) -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandrkishor/)
-<br />
-<br />
-
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
@@ -68,12 +62,19 @@ Dynamic software developer with 3+ years of IT experience, specializing in front
 
 
 ## 🤝 Let's Connect
+
+## My First github repo 
+⭐️ From [Chandrakishor Tiwari First](https://github.com/ck007tiwari) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ck007tiwari&theme=dark&hide_border=false) 
+## My Second github repo
+⭐️ From [Chandrakishor Tiwari](https://github.com/Chandrkishor)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chandrkishor&theme=dark&hide_border=false)
+
+### 🤝 Connect with me:
+[<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/chandrkishor)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandrkishor/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:chandrakishort20@gmail.com)
-## My First github repo 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ck007tiwari&theme=dark&hide_border=false)
-## My Second github repo
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chandrkishor&theme=dark&hide_border=false)
+<br />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
