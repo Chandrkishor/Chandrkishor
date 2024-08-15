@@ -1,11 +1,14 @@
-## 👋 Introduction
+# 👋 Hi there, I'm Chandrakishor Tiwari
 
-Hi there, I'm Chandrkishor, an experienced software developer with a proven track record of success. I've been coding and developing software for over two years, with expertise in the MERN stack, front-end development, and lead development.
+## 💻 Software Development Engineer II | MERN Stack Specialist | Frontend Expert
 
-- 🔭 Currently working on working on React-native application for a e-commerce (moble application) Strong hold on Frontend (webApp with ReactJs)  
-- 👯 Looking to collaborate on anything interesting and challenging
+Dynamic software developer with 3+ years of IT experience, specializing in frontend and MERN stack development. Currently leading frontend projects at a technology firm, with a proven track record of delivering high-quality solutions on time. Strong skills in project management and team leadership, committed to continuous learning and seeking to advance my career into Software Development Engineer (SDE) and leadership roles.
 
-🌱 **Passion:** I'm always eager to learn and grow as a developer, and I'm confident in delivering high-quality results.
+- 🔭 I'm currently working on MERN Stack and React Native for mobile applications
+- 🌱 I'm always eager to learn and grow as a developer
+- 👯 I'm looking to collaborate on interesting and challenging projects
+- 🎓 Pursuing Masters in Computer Applications (MCA) from IGNOU Delhi (Jan 2024 - Jan 2026)
+- ⚡ Fun fact: I was originally an Electrical Engineer!
 
 ### 🤝 Connect with me:
 <!-- [<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/chandrkishor) -->
@@ -35,13 +38,23 @@ Hi there, I'm Chandrkishor, an experienced software developer with a proven trac
 ![React Router](https://img.shields.io/badge/-React_Router-black?style=flat-square&logo=react-router)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
-![Yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=babel)
 ![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)
+
+## 🔑 Key Skills
+
+![Frontend](https://img.shields.io/badge/Frontend-ReactJS%20%7C%20React%20Native%20%7C%20Hooks-blue?style=flat-square&logo=react)
+![Backend](https://img.shields.io/badge/Backend-NodeJS%20%7C%20ExpressJS-green?style=flat-square&logo=node.js)
+![Database](https://img.shields.io/badge/Database-MongoDB-green?style=flat-square&logo=mongodb)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Responsive%20Design%20%7C%20Cross--device-blueviolet?style=flat-square&logo=css3)
+![Version Control](https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-black?style=flat-square&logo=git)
+![Project Management](https://img.shields.io/badge/Project%20Management-Agile-blue?style=flat-square&logo=azuredevops)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Data%20Structures%20%7C%20Algorithms-orange?style=flat-square&logo=leetcode)
+![Cloud Services](https://img.shields.io/badge/Cloud%20Services-AWS%20%7C%20Firebase-orange?style=flat-square&logo=amazon-aws)
+![Performance](https://img.shields.io/badge/Performance-Optimization-red?style=flat-square&logo=speedtest)
+![Mobile Dev](https://img.shields.io/badge/Mobile%20Dev-React%20Native%20%7C%20APK-blue?style=flat-square&logo=android)
 
 
 # 📊 GitHub Stats:
@@ -53,11 +66,17 @@ Hi there, I'm Chandrkishor, an experienced software developer with a proven trac
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chandrkishor&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+
+## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandrkishor/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:chandrakishort20@gmail.com)
+## My First github repo 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ck007tiwari&theme=dark&hide_border=false)
+## My Second github repo
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chandrkishor&theme=dark&hide_border=false)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Chandrkishor&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="center"> 
 Visitors count<br>
