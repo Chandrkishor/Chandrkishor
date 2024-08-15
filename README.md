@@ -39,35 +39,25 @@ Dynamic software developer with 3+ years of IT experience, specializing in front
 
 ## 🔑 Key Skills
 
-![Frontend](https://img.shields.io/badge/Frontend-ReactJS%20%7C%20React%20Native%20%7C%20Hooks-blue?style=flat-square&logo=react)
-![Backend](https://img.shields.io/badge/Backend-NodeJS%20%7C%20ExpressJS-green?style=flat-square&logo=node.js)
-![Database](https://img.shields.io/badge/Database-MongoDB-green?style=flat-square&logo=mongodb)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Responsive%20Design%20%7C%20Cross--device-blueviolet?style=flat-square&logo=css3)
-![Version Control](https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-black?style=flat-square&logo=git)
-![Project Management](https://img.shields.io/badge/Project%20Management-Agile-blue?style=flat-square&logo=azuredevops)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Data%20Structures%20%7C%20Algorithms-orange?style=flat-square&logo=leetcode)
-![Cloud Services](https://img.shields.io/badge/Cloud%20Services-AWS%20%7C%20Firebase-orange?style=flat-square&logo=amazon-aws)
-![Performance](https://img.shields.io/badge/Performance-Optimization-red?style=flat-square&logo=speedtest)
-![Mobile Dev](https://img.shields.io/badge/Mobile%20Dev-React%20Native%20%7C%20APK-blue?style=flat-square&logo=android)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chandrkishor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chandrkishor&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrkishor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![Frontend](https://img.shields.io/badge/Frontend-ReactJS%20%7C%20React%20Native%20%7C%20Hooks-blue?style=flat-square&logo=react)<br />
+![Backend](https://img.shields.io/badge/Backend-NodeJS%20%7C%20ExpressJS-green?style=flat-square&logo=node.js)<br />
+![Database](https://img.shields.io/badge/Database-MongoDB-green?style=flat-square&logo=mongodb)<br />
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Responsive%20Design%20%7C%20Cross--device-blueviolet?style=flat-square&logo=css3)<br />
+![Version Control](https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-black?style=flat-square&logo=git)<br />
+![Project Management](https://img.shields.io/badge/Project%20Management-Agile-blue?style=flat-square&logo=azuredevops)<br />
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Data%20Structures%20%7C%20Algorithms-orange?style=flat-square&logo=leetcode)<br />
+![Cloud Services](https://img.shields.io/badge/Cloud%20Services-AWS%20%7C%20Firebase-orange?style=flat-square&logo=amazon-aws)<br />
+![Performance](https://img.shields.io/badge/Performance-Optimization-red?style=flat-square&logo=speedtest)<br />
+![Mobile Dev](https://img.shields.io/badge/Mobile%20Dev-React%20Native%20%7C%20APK-blue?style=flat-square&logo=android)<br />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chandrkishor&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-
-## 🤝 Let's Connect
-
 ## My First github repo 
-⭐️ From [Chandrakishor Tiwari First](https://github.com/ck007tiwari) 
+⭐️ From [Chandrakishor Tiwari First](https://github.com/ck007tiwari) <br />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ck007tiwari&theme=dark&hide_border=false) 
 ## My Second github repo
-⭐️ From [Chandrakishor Tiwari](https://github.com/Chandrkishor)
+⭐️ From [Chandrakishor Tiwari](https://github.com/Chandrkishor) <br />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chandrkishor&theme=dark&hide_border=false)
 
 ### 🤝 Connect with me:
